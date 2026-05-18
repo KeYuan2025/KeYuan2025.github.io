@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Ke Yuan / Site Title"
+title                    : "Ke Yuan"
 title_separator          : "-"
 name                     : &name "Ke Yuan"
 description              : &description "Assistant Professor of Mechanical Engineering"   # Update this with a general description of your site, this is the default if not overridden by a page
