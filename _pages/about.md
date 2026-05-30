@@ -6,7 +6,9 @@ author_profile: true
 
 # Intelligent Structural Health Monitoring Lab
 
-**iSHM Lab | Non-contact Sensing · Robotic Measurement · Structural Dynamics · Intelligent Diagnostics**
+**iSHM Lab at Mississippi State University**
+
+*Non-contact Sensing · Robotic Measurement · Structural Dynamics · Intelligent Diagnostics*
 
 The Intelligent Structural Health Monitoring Lab (iSHM Lab) at Mississippi State University develops advanced sensing, robotic measurement, and data-driven diagnostic methods for structural dynamics and health monitoring of complex engineering systems.
 
