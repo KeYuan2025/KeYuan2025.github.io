@@ -14,6 +14,14 @@ author_profile: true
 
 The Intelligent Structural Health Monitoring Lab (iSHM Lab) at Mississippi State University develops advanced sensing, robotic measurement, and data-driven diagnostic methods for structural dynamics and health monitoring of complex engineering systems.
 
-Our research focuses on non-contact vibration measurement, laser Doppler vibrometry, robotic and moving-platform sensing, modal analysis, digital-twin-assisted validation, and intelligent interpretation for decision-oriented structural health monitoring.
-
 </div>
+
+Our research focuses on
+
+- Non-contact vibration measurement
+- Laser Doppler vibrometry
+- Robotic and moving-platform sensing
+- Modal analysis and structural dynamics
+- Digital-twin-assisted measurement planning and validation
+- Intelligent interpretation for decision-oriented structural health monitoring
+
