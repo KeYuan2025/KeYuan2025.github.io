@@ -24,9 +24,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "KeYuan-profile-2.jpg"
-  name             : "Ke Yuan"
+  name             : "Ke Yuan, Ph. D."
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor of Mechanical Engineering at Mississippi State University"
+  bio              : "Assistant Professor<br>Mechanical Engineering<br>Mississippi State University"
   location         : "Starkville, MS, USA"
   employer         : "Mississippi State University"
   uri              : # URL
