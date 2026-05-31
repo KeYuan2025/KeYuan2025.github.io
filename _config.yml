@@ -28,9 +28,13 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor<br>Mechanical Engineering<br>Mississippi State University"
   location         : "Starkville, MS, USA"
-  employer         : "Mississippi State University"
-  uri              : # URL
-  email            : "kyuan@me.msstate.edu" 
+links:
+    - label: "Mississippi State University"
+      icon: "fas fa-university"
+      url: "https://www.msstate.edu/"
+  # employer         : "Mississippi State University"
+  # uri              : # URL
+  # email            : "kyuan@me.msstate.edu" 
 
   # Academic websites
   academia         : # URL
