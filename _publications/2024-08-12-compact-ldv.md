@@ -3,12 +3,10 @@ title: "Development and validation of a new type of displacement-based miniature
 collection: publications
 category: manuscripts
 permalink: /publication/2024-08-12-compact-ldv
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'Sensors, 2024'
+date: 2024-08-12
+venue: 'Sensors'
+paperurl: 'https://keyuan2025.github.io/files/2024_compact_ldv.pdf'
+citation: '<strong>Yuan, K.</strong>, Zhu, Z., Chen, W. and Zhu, W., 2024. Development and validation of a new type of displacement-based miniatured laser vibrometers. <i>Sensors</i>, 24(16), p.5230.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This work proposes a novel chip-based high-precision laser vibrometer by incorporating two or more sets of quadrature demodulation networks into its design. An additional set of quadrature demodulation networks with a distinct reference arm delay line length can be used to conduct real-time compensation to mitigate linear interference caused by temperature and environmental variations. The proposed laser vibrometer has the advantage of directly measuring the displacement response of a vibrating structure rather than integrating its velocity response to yield the measured displacement with a conventional laser Doppler vibrometer.
