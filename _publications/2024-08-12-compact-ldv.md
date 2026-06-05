@@ -1,8 +1,8 @@
 ---
-title: "Paper Title Number 3"
+title: "Development and validation of a new type of displacement-based miniatured laser vibrometers"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2024-08-12-compact-ldv
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2015-10-01
 venue: 'Journal 1'
