@@ -1,14 +1,12 @@
 ---
-title: "Paper Title Number 2"
+title: "Full-field modal analysis of a tensegrity column using a three-dimensional scanning laser Doppler vibrometer with a mirror"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/2024-11-22-tensegrity-structure
+excerpt: 'ASME Journal of Vibration and Acoustics, 2024'
+date: 2024-11-22
+venue: 'ASME Journal of Vibration and Acoustics'
+paperurl: 'https://keyuan2025.github.io/files/2024_tensegrity_structure.pdf'
+citation: '<strong>Yuan, K.</strong>, Yuan, S. and Zhu, W., 2024. Full-field modal analysis of a tensegrity column using a three-dimensional scanning laser Doppler vibrometer with a mirror. <i>ASME Journal of Vibration and Acoustics</i>, 146(6), p.061101.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This study proposes a non-contact approach for the experimental modal analysis of a tensegrity structure to identify its three-dimensional natural frequencies and full-field mode shapes, which include modes with deformations of its cable and strut members. 
