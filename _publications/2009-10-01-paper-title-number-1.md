@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Vibration measurement and modal identification of a beam using a novel robotic continuously scanning laser Doppler vibrometer system"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
