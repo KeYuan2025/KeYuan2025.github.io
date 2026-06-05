@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-07-22-interference-pin
 excerpt: 'Journal of Vibration and Control, 2024'
-date: 2024-07-22
+date: 2026-04-01
 venue: 'Journal of Vibration and Control'
 paperurl: 'https://keyuan2025.github.io/files/2024_interference_pin.pdf'
 citation: 'Glazier, K., <strong>Yuan, K.</strong>, Will, D.T., Zhu, W. and Xu, Y., 2026. Finite element modeling and modal testing of a wind turbine lattice tower component with interference pin connections. <i>Journal of Vibration and Control</i>, 32(7-8), pp.1418-1429.'
