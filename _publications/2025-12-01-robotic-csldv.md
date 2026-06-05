@@ -13,7 +13,7 @@ This paper presents a robotic continuously scanning laser Doppler vibrometry sys
 
 <figure style="text-align: center;">
   <img src="/images/publications/robotic-csldv-system.jpg" alt="Robotic CSLDV system" style="width:80%;">
-  <figcaption>Figure 1. Robotic continuously scanning laser Doppler vibrometry system.</figcaption>
+  <figcaption>Measured response and modal parameters of a beam by using the proposed robotic csldv system.</figcaption>
 </figure>
 
 The proposed system enables high-density vibration measurement and modal identification using continuous robotic scanning.
