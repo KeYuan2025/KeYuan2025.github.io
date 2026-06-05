@@ -3,7 +3,7 @@ title: "Finite element modeling and modal testing of a wind turbine lattice towe
 collection: publications
 category: manuscripts
 permalink: /publication/2024-07-22-interference-pin
-excerpt: 'Journal of Vibration and Control, 2024'
+excerpt: 'Journal of Vibration and Control, 2026'
 date: 2026-04-01
 venue: 'Journal of Vibration and Control'
 paperurl: 'https://keyuan2025.github.io/files/2024_interference_pin.pdf'
