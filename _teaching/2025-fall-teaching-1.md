@@ -3,18 +3,9 @@ title: "ME 4403 Machine Design"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2025-fall-teaching-1
-venue: "Mississippi State University, Mechanical Egineering"
+venue: "Mississippi State University, Mechanical Engineering"
 date: 2025-08-20
 location: "Starkville, MS"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+This course covers applied stress analysis and material strength theories for the design and selection of machine elements, including gears, cams, belts, and springs.
