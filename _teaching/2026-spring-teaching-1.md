@@ -5,7 +5,7 @@ type: "Undergraduate course"
 permalink: /teaching/2026-spring-teaching-1
 venue: "Mississippi State University, Mechanical Engineering"
 date: 2026-01-14
-semester: "Fall"
+semester: "Spring"
 location: "Starkville, MS"
 title_link: false
 ---
