@@ -21,6 +21,7 @@ author_profile: true
     <p>
       Assistant Professor<br>
       Michael W. Hall School of Mechanical Engineering<br>
+      Bagley College of Engineering<br>
       Mississippi State University
     </p>
 
