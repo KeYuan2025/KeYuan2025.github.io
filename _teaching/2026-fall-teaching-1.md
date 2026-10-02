@@ -10,6 +10,6 @@ location: "Starkville, MS"
 title_link: false
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+ The course covers fundamentals of vibration measurement and experimental modal analysis, acquisition and signal processing of vibration data for identification of modal parameters and validation of structural dynamic models, as well as cases of real-world applications, such as vibration monitoring and modal analysis of beams, plates, and reduced-order airplane models using Python. 
 
 
