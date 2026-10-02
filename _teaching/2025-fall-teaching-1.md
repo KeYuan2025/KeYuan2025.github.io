@@ -5,6 +5,7 @@ type: "Undergraduate Course"
 permalink: /teaching/2025-fall-teaching-1
 venue: "Mississippi State University, Mechanical Engineering"
 date: 2025-08-20
+semester: "Fall"
 location: "Starkville, MS"
 title_link: false
 ---
