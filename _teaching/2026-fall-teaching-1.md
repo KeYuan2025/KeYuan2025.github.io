@@ -5,6 +5,7 @@ type: "Hybrid Course for Both Graduates and Undergraduates"
 permalink: /teaching/2026-fall-teaching-1
 venue: "Mississippi State University, Mechanical Engineering"
 date: 2026-08-19
+semester: "Fall"
 location: "Starkville, MS"
 title_link: false
 ---
