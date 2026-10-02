@@ -1,16 +1,22 @@
 ---
 layout: archive
-title: "Talks and presentations"
-permalink: /talks/
+title: "People"
+permalink: /people/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
+## Principal Investigator
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
+### Ke Yuan, Ph.D.
 
-{% endif %}
+Assistant Professor  
+Michael W. Hall School of Mechanical Engineering  
+Mississippi State University
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+## Graduate Students
+
+Coming soon.
+
+## Undergraduate Researchers
+
+Coming soon.
