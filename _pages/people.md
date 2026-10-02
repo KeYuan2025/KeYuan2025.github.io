@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "People"
+permalink: /people/
+author_profile: true
+---
+
 ## Principal Investigator
 
 <div style="display: flex; align-items: flex-start; gap: 25px; flex-wrap: wrap; margin-bottom: 30px;">
@@ -14,7 +21,6 @@
     <p>
       Assistant Professor<br>
       Michael W. Hall School of Mechanical Engineering<br>
-      Bagley College of Engineering<br>
       Mississippi State University
     </p>
 
