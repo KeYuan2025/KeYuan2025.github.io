@@ -12,7 +12,7 @@ author_profile: true
   <div style="flex: 0 0 180px;">
     <img src="/images/KeYuan-profile.jpg"
          alt="Ke Yuan"
-         style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%;">
+         style="width: 180px; height: auto;">
   </div>
 
   <div style="flex: 1; min-width: 280px;">
