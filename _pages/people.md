@@ -11,6 +11,7 @@ author_profile: true
 
 Assistant Professor  
 Michael W. Hall School of Mechanical Engineering  
+Bagley College of Engineering
 Mississippi State University
 
 ## Graduate Students
