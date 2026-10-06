@@ -80,7 +80,7 @@ author_profile: true
 
 <p>
   <strong>Research Interests:</strong>
-  Robotic vibration measurement, laser Doppler vibrometry, structural dynamics, and structural health monitoring.
+  Physical AI for vibration measurement
 </p>
 
   </div>
