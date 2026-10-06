@@ -26,7 +26,7 @@ author_profile: true
     </p>
 
     <p>
-      Dr. Yuan's research focuses on non-contact vibration measurement, robotic laser Doppler vibrometry, structural dynamics, modal analysis, and intelligent structural health monitoring.
+      Dr. Yuan's research focuses on non-contact vibration measurement, robotic laser Doppler vibrometry, structural dynamics, modal analysis, advanced machine design, and AI-driven structural health monitoring.
     </p>
   </div>
 
