@@ -37,7 +37,7 @@ author_profile: true
 <div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; margin-bottom: 30px;">
 
   <div style="flex: 0 0 150px;">
-    <img src="/images/PhD_student_Md_Sazedur_Rahman.jpg"
+    <img src="/images/PhD_student_Md_Sazedur_Rahman.JPG"
          alt="Md. Sazedur Rahman"
          style="width: 150px; height: auto;">
   </div>
