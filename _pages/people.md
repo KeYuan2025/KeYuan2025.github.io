@@ -93,12 +93,12 @@ author_profile: true
 
   <div style="flex: 0 0 150px;">
     <img src="/images/PhD_student_Joao_Camacho.JPG"
-         alt="Joao_Camacho"
+         alt="Joao Camacho"
          style="width: 150px; height: auto;">
   </div>
 
   <div style="flex: 1; min-width: 280px;">
-    <h3 style="margin-top: 0;">Joao_Camacho</h3>
+    <h3 style="margin-top: 0;">Joao Camacho</h3>
 
 <p>
   Undergraduate Student in Mechanical Engineering<br>
