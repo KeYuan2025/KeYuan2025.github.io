@@ -53,7 +53,7 @@ author_profile: true
 
 <p>
   <strong>Research Interests:</strong>
-  Electric power tool diagnostics, machining learning, machine design
+  Electric power tool diagnostics, machine learning, machine design
 </p>
 
   </div>
